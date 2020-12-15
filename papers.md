@@ -1,7 +1,15 @@
 **2020**
+- A Survey on Big Data for Trajectory Analytics
 - Pedestrians' Space-Time-Path Trajectories: Spatiotemporal Algebra and Analytics
 - Semantic Trajectory Modelling in Indoor and Outdoor Spaces
 - Semantic trajectory representation and retrieval via hierarchical embedding
 - Mobility pattern analysis of ship trajectories based on semantic transformation and topic model
 - Multi-Channel Convolutional Neural Networks for Handling Multi-Dimensional Semantic Trajectories and Predicting Future Semantic Locations
 - Effective spatio‐temporal semantic trajectory generation for similar pattern group identification
+- Aircraft Trajectory Prediction Made Easy with Predictive Analytics
+- Stop-and-move sequence expressions over semantic trajectories
+- Trajectron++- Dynamically-Feasible Trajectory Forecasting With Heterogeneous Data
+- Semantic trajectory segmentation based on change-point detection and ontology
+- A semantic trajectory data warehouse for improving nursing productivity
+- STCCD: Semantic trajectory clustering based on community detection in networks
+- Applying Movement Constraints to BLE RSSI-Based Indoor Positioning for Extracting Valid Semantic Trajectories
