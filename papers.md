@@ -1,4 +1,4 @@
-**2020**
+## 2020
 - A Survey on Big Data for Trajectory Analytics
 - Pedestrians' Space-Time-Path Trajectories: Spatiotemporal Algebra and Analytics
 - Semantic Trajectory Modelling in Indoor and Outdoor Spaces
@@ -13,3 +13,15 @@
 - A semantic trajectory data warehouse for improving nursing productivity
 - STCCD: Semantic trajectory clustering based on community detection in networks
 - Applying Movement Constraints to BLE RSSI-Based Indoor Positioning for Extracting Valid Semantic Trajectories
+
+## 2019
+- MASTER: A multiple aspect view on trajectories
+
+## 2015
+- Trajectory Data Mining: An Overview
+
+## 2014
+- An Algebra for Spatiotemporal Data: From Observations to Events
+
+## 2013
+- CONSTAnT – A Conceptual Data Model for Semantic Trajectories of Moving Objects
