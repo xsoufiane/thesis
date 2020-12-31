@@ -19,9 +19,21 @@
 
 ## 2015
 - Trajectory Data Mining: An Overview
+- Symbolic trajectories and application challenges
 
 ## 2014
 - An Algebra for Spatiotemporal Data: From Observations to Events
 
 ## 2013
 - CONSTAnT – A Conceptual Data Model for Semantic Trajectories of Moving Objects
+- Semantic trajectories modeling and analysis
+- Semantic Trajectories- Mobility Data Computation and Annotation
+
+## 2011
+- Adding Meaning to Your Steps
+
+## 2009
+- Towards Semantic Trajectory Data Analysis: A Conceptual and Computational Approach
+
+## 2008
+- A Conceptual View on Trajectories
