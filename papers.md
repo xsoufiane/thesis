@@ -16,10 +16,12 @@
 
 ## 2019
 - MASTER: A multiple aspect view on trajectories
+- A spatiotemporal algebra in Hadoop for moving objects
 
 ## 2015
 - Trajectory Data Mining: An Overview
 - Symbolic trajectories and application challenges
+- Querying Semantic Trajectory Episodes
 
 ## 2014
 - An Algebra for Spatiotemporal Data: From Observations to Events
@@ -28,12 +30,17 @@
 - CONSTAnT – A Conceptual Data Model for Semantic Trajectories of Moving Objects
 - Semantic trajectories modeling and analysis
 - Semantic Trajectories- Mobility Data Computation and Annotation
+- Baquara: A Holistic Ontological Framework for Movement Analysis Using Linked Data
 
 ## 2011
 - Adding Meaning to Your Steps
+- SeMiTri: a framework for semantic annotation of heterogeneous trajectories
 
 ## 2009
 - Towards Semantic Trajectory Data Analysis: A Conceptual and Computational Approach
 
 ## 2008
 - A Conceptual View on Trajectories
+
+## 1983
+- Maintaining Knowledge about Temporal Intervals
